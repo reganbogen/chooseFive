@@ -1,20 +1,20 @@
 {
     "particles": {
       "number": {
-        "value": 28,
+        "value": 70,
         "density": {
           "enable": true,
           "value_area": 800
         }
       },
       "color": {
-        "value": "#b8860b"
+        "value": "#0f659b"
       },
       "shape": {
-        "type": "circle",
+        "type": "cat",
         "stroke": {
           "width": 1,
-          "color": "#ffffff"
+          "color": "#b811c6"
         },
         "polygon": {
           "nb_sides": 8
@@ -26,7 +26,7 @@
         }
       },
       "opacity": {
-        "value": 0.5,
+        "value": 0.1,
         "random": false,
         "anim": {
           "enable": false,
@@ -36,7 +36,7 @@
         }
       },
       "size": {
-        "value": 3,
+        "value": 100,
         "random": true,
         "anim": {
           "enable": true,
@@ -48,7 +48,7 @@
       "line_linked": {
         "enable": true,
         "distance": 182.90198947482202,
-        "color": "#ffffff",
+        "color": "#19bc2c",
         "opacity": 0.3,
         "width": 1
       },
@@ -61,7 +61,7 @@
         "out_mode": "out",
         "bounce": false,
         "attract": {
-          "enable": false,
+          "enable": true,
           "rotateX": 600,
           "rotateY": 1200
         }
